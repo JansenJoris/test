@@ -1,2 +1,1 @@
-print('Hello everyone')
-print('Hello MR JANSEN')
+console.log("hello world");
